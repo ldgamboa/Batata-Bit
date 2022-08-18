@@ -1,0 +1,19 @@
+.body__currency {
+    display: flex;
+    width: 465px;
+    margin: 0 auto;
+    gap: 150px;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans__container--slider {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
